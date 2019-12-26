@@ -19,7 +19,7 @@ public class LoginActivity extends AppCompatActivity {
 
         btnLogin = findViewById(R.id.btnLogin);
 
-        
+
 
 
     }
